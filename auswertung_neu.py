@@ -15,6 +15,7 @@ Interne Notizen - werden entfernt:
 Wichtiger Hinweis: Code noch nicht mit Pi kompatibel. Muss noch für reale Messung angepasst werden.
 """
 
+test = 0
 
 from zeit import  wait_for_1, mess_zeit_last, wait_for_taster #mess_zeit,
 
